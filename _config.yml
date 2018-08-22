@@ -13,7 +13,7 @@ name                     : &name "Tianzhou Ma (Charles)"
 description              : &description "personal description"
 url                      : https://matianzhou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "matianzhou.github.io"
+repository               : "matianzhou/matianzhou.github.io"
 teaser                   :  "/images/ma_selfie.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -110,6 +110,8 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+#  researchgate     : "https://www.researchgate.net/profile/Tianzhou_Ma"
+
 
 # Reading Files
 include:
