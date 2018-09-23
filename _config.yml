@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tianzhou Ma (Charles)"
+title                    : "Tianzhou (Charles) Ma"
 title_separator          : "-"
-name                     : &name "Tianzhou Ma (Charles)"
+name                     : &name "Tianzhou (Charles) Ma"
 description              : &description "personal description"
 url                      : https://matianzhou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -78,14 +78,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tianzhou Ma (Charles)"
+  name             : "Tianzhou (Charles) Ma"
   avatar           : "ma_selfie.jpg"
   bio              : "Assistant Professor at Department of Epidemiology and Biostatistics of University of Maryland College Park"
   location         : "College Park, MD"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=28ddsXsAAAAJ&hl=en"
   email            : "tma0929@umd.edu"
-  uri              : "https://www.researchgate.net/profile/Tianzhou_Ma"
+  uri              : "https://sph.umd.edu/department/epib/bio/91666"
   bitbucket        :
   codepen          :
   dribbble         :

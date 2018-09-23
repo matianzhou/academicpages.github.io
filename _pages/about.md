@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello, my name is Tianzhou Ma (Charles), I am an Assistant Professor in Biostatistics at the Department of Epidemiology and Biostatistics of the School of Public Health at University of Maryland College Park. I received my PhD in Biostatistics from the University of Pittsburgh in 2018 and a MS in Biostatistics from Yale University in 2013. My complete CV can be found here <a href="files/cv/TianzhouMa_CV.pdf">[pdf]</a>. My research focuses on statistical methods in genomics and bioinformatics, meta-analysis and data integration, statistical machine learning, Bayesian analysis, high-dimensional variable selection, as well as their application in cancer, psychiatry and epidemiology fields. In addition to research, I like writing, playing soccer and basketball in my spare time.
+Hello, my name is Tianzhou Ma (Charles), I am an Assistant Professor in Biostatistics at the Department of Epidemiology and Biostatistics of the School of Public Health at University of Maryland College Park. I received my PhD in Biostatistics from the University of Pittsburgh in 2018 and a MS in Biostatistics from Yale University in 2013. My research focuses on statistical methods in genomics and bioinformatics, meta-analysis and data integration, statistical machine learning, Bayesian analysis, high-dimensional variable selection, as well as their application in cancer, psychiatry and epidemiology fields. In addition to research, I like writing, playing soccer and basketball in my spare time.
+
+Link to my <a href="files/cv/TianzhouMa_CV.pdf">[CV]</a>
 
 Research interest
 ======
