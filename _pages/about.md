@@ -8,13 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-Hello, my name is Tianzhou (Charles) Ma, I am an Assistant Professor in Biostatistics at the Department of Epidemiology and Biostatistics of the School of Public Health at University of Maryland College Park. I received my PhD in Biostatistics from the University of Pittsburgh in 2018 and a MS in Biostatistics from Yale University in 2013. My research focuses on statistical methods in genomics and bioinformatics, meta-analysis and data integration, statistical machine learning, Bayesian analysis, high-dimensional variable selection, as well as their application in cancer, psychiatry and epidemiology fields. In addition to research, I like writing, playing soccer and basketball in my spare time.
+Hello, my name is Tianzhou (Charles) Ma, I am an Assistant Professor in Biostatistics at the Department of Epidemiology and Biostatistics of the School of Public Health at University of Maryland College Park. I received my PhD in Biostatistics from the University of Pittsburgh in 2018 and a MS in Biostatistics from Yale University in 2013.  My research focuses on developing statistical methods and softwares in genomics and bioinformatics, meta-analysis and data integration, statistical machine learning, Bayesian analysis, high-dimensional variable selection, as well as their application in cancer, psychiatry and epidemiology fields. I am actively seeking for collaborations with researchers in both methodology and application (not restricted to my current fields of research). In addition to research, I like writing, playing soccer and basketball in my spare time.
 
 Link to my <a href="files/cv/TianzhouMa_CV.pdf">[CV]</a>
 
 Research interest
 ======
-My research interest lies in the intersection between statistical methodology and its applications to multi-omics (e.g. genotyping, gene expression, epigenomics, proteomics, etc.) and bioinformatics. In particular, I am interested in omics data integration and meta-analysis, Bayesian modeling, high-dimensional variable selection, general statistical learning, and software development for general bioinformatic problems. In addition to methodology development, I have also collaborated with researchers in the cancer eld (e.g. breast cancer and ovarian cancer), psychiatry and epidemiology for data analysisand motivation of new methodology.
+<ul style="list-style-type:disc">
+  <li>Multi-omics (e.g. genotyping, gene expression, epigenomics, proteomics, etc.) and bioinformatics </li>
+  <li>Meta-analysis and data integration </li>
+  <li>Statistical learning and high-dimensional variable selection </li>
+  <li>Bayesian analysis and hierarchical modeling </li>
+  <li>Application in cancer (e.g. breast cancer and ovarian cancer), psychiatry (e.g. aging and depression) and epidemiology </li>
+  <li>And other new fields to be explored … </li>
+</ul>
 
 Selected publications
 ======
