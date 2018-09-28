@@ -1,5 +1,5 @@
 ---
-title: '2018'
+title: '2018 (9)'
 ---
 
 <p>[1] Zhu, L., Huo, Z., <b> Ma, T.</b>, Tseng, GC. (2018). Bayesian indicator variable selection model with multi-layer overlapping groups. Under revision in <i> Annals of Applied Statistics </i>. (a preliminary version won the ENAR distinguished student paper award).
@@ -16,5 +16,11 @@ title: '2018'
 
 <p>[9] Scifo, E., Pabba, M., Kapadia, F., <b>Ma, T.</b>, Lewis, D.A., Tseng, G.C. and Sibille, E. (2018). Sustained molecular pathology across episodes and remission in major depressive disorder. Biological psychiatry, 83(1), pp.81-89.
 
+---
+title: '2017 (xx)'
+---
+
+<p>[1] <u> Tianzhou Ma </u>, Faming Liang and George C. Tseng. (2017). Biomarker detection and categorization in ribonucleic acid sequencing meta-analysis using Bayesian hierarchical model. <i>Journal of the Royal Statistical Society: Series C</i>. 66(4): 847-867. (won 2017 ASA Section on Bayesian Statistical Science (SBSS) student paper award) <a href="files/preprints/BayesMetaSeq.pdf">[pdf]</a>
+<p>[2] <u> Tianzhou Ma </u>, Faming Liang, Steffi Oesterreich and George C. Tseng. (2017). A joint Bayesian modeling for integrating microarray and RNA-seq transcriptomic data. <i>Journal of Computational Biology</i>. 24(7): 647-662. (selected to present at Dahshu Data Science Symposium: Computational Precision Health 2017 and won the best paper award) <a href="files/preprints/CBM.pdf">[pdf]</a>
 
 
