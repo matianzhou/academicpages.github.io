@@ -16,7 +16,8 @@ permalink: /publications/publication_list_2018
 
 <p>[8] <b>Ma, T.</b>, Ren, Z. and Tseng, GC. (2018). Variable screening with multiple studies. <i>Statistica Sinica </i>. Accepted. <a href="files/preprints/TSA-SIS.pdf">[pdf]</a>
 
-<p>[9] Scifo, E., Pabba, M., Kapadia, F., <b>Ma, T.</b>, Lewis, D.A., Tseng, G.C. and Sibille, E. (2018). Sustained molecular pathology across episodes and remission in major depressive disorder. Biological psychiatry, 83(1), pp.81-89.
+<p>[9] Scifo, E., Pabba, M., Kapadia, F., <b>Ma, T.</b>, Lewis, D.A., Tseng, G.C. and Sibille, E. (2018). Sustained molecular pathology across episodes and remission in major depressive disorder. Biological psychiatry, 83(1), pp.81-89. <a href="https://www.ncbi.nlm.nih.gov/pubmed/28935211">PMID: 28935211</a>.
+
 
 
 
