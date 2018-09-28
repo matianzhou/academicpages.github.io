@@ -1,7 +1,7 @@
 ---
 title: '2017 (8)'
 collection: publications
-permalink: /publication/publication_list_2017
+permalink: /publications/publication_list_2017
 ---
 
 <p>[1] <b> Ma, T. </b>, Liang, F. and Tseng, GC. (2017). Biomarker detection and categorization in ribonucleic acid sequencing meta-analysis using Bayesian hierarchical model. <i>Journal of the Royal Statistical Society: Series C</i>. 66(4): 847-867. (won 2017 ASA Section on Bayesian Statistical Science (SBSS) student paper award) <a href="files/preprints/BayesMetaSeq.pdf">[pdf]</a>

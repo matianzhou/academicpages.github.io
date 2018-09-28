@@ -1,7 +1,7 @@
 ---
 title: '2018 (9)'
 collection: publications
-permalink: /publication/publication_list_2018
+permalink: /publications/publication_list_2018
 ---
 
 <p>[1] Zhu, L., Huo, Z., <b> Ma, T.</b>, Tseng, GC. (2018). Bayesian indicator variable selection model with multi-layer overlapping groups. Under revision in <i> Annals of Applied Statistics </i>. (a preliminary version won the ENAR distinguished student paper award).
@@ -12,7 +12,7 @@ permalink: /publication/publication_list_2018
 
 <p>[6] Fang, Z., <b> Ma, T.</b>, Tang, G., Zhu, L., Yan, Q., Wang, T., Celedón, J.C., Chen, W., Tseng, G.C. and Hancock, J. (2018). Bayesian integrative model for multi-omics data with missingness. <i>Bioinformatics </i>. Accepted. 
 
-<p>[7] <b> Ma, T.*</b>, Huo, Z.*, Kuo, A.*, Zhu, L., Fang, Z., Zeng, X., Lin, C., Liu. S., Wang, L., Liu, P., Rahman, T., Chang, L., Kim, S., Li, J., Park, Y., Song, C. and Tseng, GC. (2018). MetaOmics - Comprehensive Analysis Pipeline and Web-based Software Suite for Transcriptomic Meta-Analysis. <i>Bioinformatics </i>. Accepted. <a href="files/preprints/MetaOmics.pdf">[pdf]</a> <a href="https://github.com/metaOmics/metaOmics">[software]</a>
+<p>[7] <b> Ma, T.*</b>, Huo, Z.*, Kuo, A.*, Zhu, L., Fang, Z., Zeng, X., Lin, C., Liu. S., Wang, L., Liu, P., Rahman, T., Chang, L., Kim, S., Li, J., Park, Y., Song, C. and Tseng, GC. (2018). MetaOmics - Comprehensive Analysis Pipeline and Web-based Software Suite for Transcriptomic Meta-Analysis. <i>Bioinformatics </i>. Accepted. <a href="files/preprints/MetaOmics.pdf">[pdf]</a> <a href="https://github.com/metaOmics/metaOmics">[software]</a> (* co-first author)
 
 <p>[8] <b>Ma, T.</b>, Ren, Z. and Tseng, GC. (2018). Variable screening with multiple studies. <i>Statistica Sinica </i>. Accepted. <a href="files/preprints/TSA-SIS.pdf">[pdf]</a>
 

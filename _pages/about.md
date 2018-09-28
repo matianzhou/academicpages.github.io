@@ -17,7 +17,7 @@ Research interest
 <ul style="list-style-type:disc">
   <li>Multi-omics (e.g. genotyping, gene expression, epigenomics, proteomics, etc.) and bioinformatics </li>
   <li>Meta-analysis and data integration </li>
-  <li>Statistical learning and high-dimensional variable selection </li>
+  <li>Statistical learning, clustering and high-dimensional variable selection </li>
   <li>Bayesian analysis and hierarchical modeling </li>
   <li>Application in cancer (e.g. breast cancer and ovarian cancer), psychiatry (e.g. aging and depression) and epidemiology </li>
   <li>And other new fields to be explored … </li>
@@ -32,5 +32,13 @@ Selected publications
 <p>[5] Scifo E, Pabba M, Kapadia F,<u> Tianzhou Ma </u>, Lewis DA, Tseng GC and Sibille E. (2018). Sustained molecular pathology across episodes and remission in depression. <i>Biological Psychiatry</i>. 83(1): 81-89. <a href="https://www.ncbi.nlm.nih.gov/pubmed/28935211">PMID: 28935211</a>.
 <p>[6] Andersen CL, Sikora MJ, Boisen MM, <u> Tianzhou Ma </u>, Christie A, Tseng G, Park Y,  Luthra S, Chandran U, Haluska P, Mantia-Smaldone GM, Odunsi K, McLean K, Lee AV, Elishaev E, Edwards RP and Oesterreich S. (2017). Active estrogen receptor-alpha signaling in ovarian cancer models and clinical specimens. <i>Clinical Cancer Research</i>. 23(14):3802-3812. <a href="https://www.ncbi.nlm.nih.gov/pubmed/28073843">PMID: 28073843</a>.
 <p>[7] Chen CY, Logan RW, <u> Tianzhou Ma </u>, Lewis DA, Tseng GC, Sibille E and McClung CA. (2016). The effects of aging on circadian patterns of gene expression in the human prefrontal cortex. <i>Proceedings of the National Academy of Sciences </i>, 113(1), 206-21. <a href="https://www.ncbi.nlm.nih.gov/pubmed/26699485">PMID: 26699485</a>. (High Attention Paper, 99th percentile, <a href="http://www.npr.org/sections/health-shots/2015/12/22/460333217/as-aging-brains-internal-clock-fades-a-new-timekeeper-may-kick-in">News on National Public Radio (NPR)</a>)
+
+Collaboration
+======
+<ul style="list-style-type:disc">
+  <li><a href="http://tsenglab.biostat.pitt.edu/"> Prof. George Tseng </a>, Bioinformatics and Statistical Learning Group, Department of Biostatistics, University of Pittsburgh </li>
+  <li><a href="http://www.pitt.edu/~zren/"> Prof. Zhao Ren </a>, Department of Statistics, University of Pittsburgh </li>
+  <li><a href="https://caleb-huo.github.io/"> Prof. Zhiguang Huo </a>, Department of Biostatistics, University of Florida </li>
+</ul>
 
 
