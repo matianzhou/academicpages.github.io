@@ -1,5 +1,7 @@
 ---
 title: '2018 (9)'
+collection: publications
+permalink: /publication/publication_list_2018
 ---
 
 <p>[1] Zhu, L., Huo, Z., <b> Ma, T.</b>, Tseng, GC. (2018). Bayesian indicator variable selection model with multi-layer overlapping groups. Under revision in <i> Annals of Applied Statistics </i>. (a preliminary version won the ENAR distinguished student paper award).
