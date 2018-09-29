@@ -6,11 +6,13 @@ author_profile: true
 ---
 
 
-<h2 class="archive__item-title" itemprop="headline">
+<h3 class="archive__item-title" itemprop="headline">
       
-Cross species resemblance analysis of genomic response
+1. Cross species resemblance analysis of genomic response
       
-  </h2>
+  </h3>
+
+<p></p>
 
   <div class="figure">
     
@@ -26,12 +28,16 @@ Cross species resemblance analysis of genomic response
 <li> (Motivating PNAS paper #2) Takao, K., & Miyakawa, T. (2015). Genomic responses in mouse models greatly mimic human inflammatory diseases. <i>Proceedings of the National Academy of Sciences </i>, 112(4), 1167-1172. </li> 
 </ul>
 
+<p></p><p></p>
 
-<h2 class="archive__item-title" itemprop="headline">
+
+<h3 class="archive__item-title" itemprop="headline">
       
-MetaOmics: software suite for comprehensive transcriptomic meta-analysis (seven biological purposes)
+2. MetaOmics: software suite for comprehensive transcriptomic meta-analysis (seven biological purposes)
       
-  </h2>
+  </h3>
+
+<p></p>
 
 
   <div class="figure">
@@ -46,12 +52,15 @@ MetaOmics: software suite for comprehensive transcriptomic meta-analysis (seven 
 <li> <b> Ma, T.*</b>, Huo, Z.*, Kuo, A.*, Zhu, L., Fang, Z., Zeng, X., Lin, C., Liu. S., Wang, L., Liu, P., Rahman, T., Chang, L., Kim, S., Li, J., Park, Y., Song, C. and Tseng, GC. (2018). MetaOmics - Comprehensive Analysis Pipeline and Web-based Software Suite for Transcriptomic Meta-Analysis. <i>Bioinformatics </i>. Accepted. <a href="files/preprints/MetaOmics.pdf">[pdf]</a> <a href="https://github.com/metaOmics/metaOmics">[software]</a> (* co-first author) </li>
 </ul>
 
+<p></p><p></p>
 
-<h2 class="archive__item-title" itemprop="headline">
+<h3 class="archive__item-title" itemprop="headline">
       
-Meta-analysis of multiple transcriptomic studies (microarray and RNA-seq)
+3. Meta-analysis of multiple transcriptomic studies (microarray and RNA-seq)
       
-  </h2>
+  </h3>
+
+<p></p>
 
 
   <div class="figure">
@@ -66,11 +75,15 @@ Meta-analysis of multiple transcriptomic studies (microarray and RNA-seq)
 <li> <b> Ma, T. </b>, Liang, F., Oesterreich, S. and Tseng, GC. (2017). A joint Bayesian modeling for integrating microarray and RNA-seq transcriptomic data. <i>Journal of Computational Biology</i>. 24(7): 647-662. <a href="files/preprints/CBM.pdf">[pdf]</a> </li>
 </ul>
 
-<h2 class="archive__item-title" itemprop="headline">
+<p></p><p></p>
+
+<h3 class="archive__item-title" itemprop="headline">
       
-Sure independence screening with multiple studies 
+4. Sure independence screening with multiple studies 
       
-  </h2>
+  </h3>
+
+<p></p>
 
   <div class="figure">
     
@@ -85,4 +98,26 @@ Sure independence screening with multiple studies
 <li> To be continued </li>
 </ul>
 
+<h3 class="archive__item-title" itemprop="headline">
+
+5. Multi-omics data integration 
+
+  </h3>
+
+<p></p>
+
+  <div class="figure">
+    
+    	<img src="/files/figures/MultiOmics.jpg" alt="">
+    
+  </div>
+
+
+<ul style="list-style-type:disc">
+
+<li> Zhu, L., Huo, Z., <b> Ma, T.</b>, Tseng, GC. (2018). Bayesian indicator variable selection model with multi-layer overlapping groups. Under revision in <i> Annals of Applied Statistics </i>. (a preliminary version won the ENAR distinguished student paper award). </li>
+<li> Huo, Z., Zhu, L., <b> Ma, T.</b>, Liu, H., Han, S., Liao, D., Zhao, J and Tseng, GC. (2018). Two-way Horizontal and Vertical Omics Integration for Disease Subtype Discovery. Under revision in <i> Statistics in Biosciences </i> </li>
+<li>  Fang, Z., <b>Ma, T.</b>, Tang, G., Zhu, L., Yan, Q., Wang, T., Celedón, J.C., Chen, W., Tseng, G.C. and Hancock, J. (2018). Bayesian integrative model for multi-omics data with missingness. <i>Bioinformatics </i>. Accepted. </li>
+<li> Liao S, Hartmaier RJ, McGuire KP, Puhalla SL, Luthra S, Chandran UR, <b>Ma T</b>, Bhargava R, Davidson NE, Benz S, Lee AV, Tseng GC and Oesterreich S. (2015). The molecular landscape of premenopausal breast cancer. <i>Breast Cancer Research</i>, 17:104. doi: 10.1186/s13058-015-0618-8. <a href="https://www.ncbi.nlm.nih.gov/pubmed/26251034">PMID: 26251034</a>. (discussed in an interview; <a href="http://www.nature.com/nature/journal/v527/n7578_supp/full/527S108a.html"><i>Nature</i>, 527: S108-109</a>) </li>
+</ul>
 
