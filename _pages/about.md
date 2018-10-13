@@ -36,12 +36,22 @@ Selected publications
 <p>[7] Chen CY, Logan RW, <u> Tianzhou Ma </u>, Lewis DA, Tseng GC, Sibille E and McClung CA. (2016). The effects of aging on circadian patterns of gene expression in the human prefrontal cortex. <i>Proceedings of the National Academy of Sciences </i>, 113(1), 206-21. <a href="https://www.ncbi.nlm.nih.gov/pubmed/26699485">PMID: 26699485</a>. (High Attention Paper, 99th percentile, <a href="http://www.npr.org/sections/health-shots/2015/12/22/460333217/as-aging-brains-internal-clock-fades-a-new-timekeeper-may-kick-in">News on National Public Radio (NPR)</a>) </p>
 
 <h1> Collaboration </h1>
+
+<h2> Methodology </h2>
 <ul style="list-style-type:disc">
   <li><a href="http://tsenglab.biostat.pitt.edu/"> Prof. George Tseng </a>, Bioinformatics and Statistical Learning Group, Department of Biostatistics, University of Pittsburgh </li>
   <li><a href="http://www.pitt.edu/~zren/"> Prof. Zhao Ren </a>, Department of Statistics, University of Pittsburgh </li>
-  <li><a href="https://caleb-huo.github.io/"> Prof. Zhiguang Huo </a>, Department of Biostatistics, University of Florida </li>
+  <li><a href="https://cph.osu.edu/people/csong/"> Prof. Chi (Chuck) Song </a>, Division of Biostatistics, Ohio State University</li>
+  <li><a href="https://caleb-huo.github.io/"> Prof. Zhiguang (Caleb) Huo </a>, Department of Biostatistics, University of Florida </li>
+  <li><a href="http://www.stat.purdue.edu/people/faculty/fmliang/"> Prof. Faming Liang </a>, Department of Statistics, Purdue University </li>
+  <li><a href="http://sph.umd.edu/people/mei-ling-ting-lee/"> Prof. Mei-Ling Ting Lee </a>, Department of Epidemiology and Biostatistics, University of Maryland </li>
+  <li><a href="https://www-math.umd.edu/people/faculty/item/1241-tsaegusa.html/"> Prof. Takumi Saegusa </a>, Department of Mathematics, University of Maryland </li>
 </ul>
 
-
+<p> </p>
+<h2> Application </h2>
+<ul style="list-style-type:disc">
+  <li><a href="http://sph.umd.edu/people/donald-milton/"> Prof. Donald Milton </a>,  Applied Environmental Health (MIAEH), University of Maryland </li>
+</ul>
 
 
