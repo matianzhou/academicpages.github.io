@@ -46,12 +46,14 @@ Selected publications
   <li><a href="http://www.stat.purdue.edu/people/faculty/fmliang/"> Prof. Faming Liang </a>, Department of Statistics, Purdue University </li>
   <li><a href="http://sph.umd.edu/people/mei-ling-ting-lee/"> Prof. Mei-Ling Ting Lee </a>, Department of Epidemiology and Biostatistics, University of Maryland </li>
   <li><a href="https://www-math.umd.edu/people/faculty/item/1241-tsaegusa.html/"> Prof. Takumi Saegusa </a>, Department of Mathematics, University of Maryland </li>
+  <li><a href="http://www.medschool.umaryland.edu/profiles/Chen-Shuo/"> Prof. Shuo Chen </a>, Department of Epidemiology and Biostatistics, University of Maryland School of Medicine </li>
 </ul>
 
 <p> </p>
 <h2> Application </h2>
 <ul style="list-style-type:disc">
   <li><a href="http://sph.umd.edu/people/donald-milton/"> Prof. Donald Milton </a>,  Applied Environmental Health (MIAEH), University of Maryland </li>
+  <li><a href="https://psyc.umd.edu/facultyprofile/magidson/jessica/"> Prof. Jessica Magidson </a>,  Department of Psychology, University of Maryland </li>
 </ul>
 
 
