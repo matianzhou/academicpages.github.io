@@ -54,6 +54,7 @@ Selected publications
 <ul style="list-style-type:disc">
   <li><a href="http://sph.umd.edu/people/donald-milton/"> Prof. Donald Milton </a>,  Applied Environmental Health (MIAEH), University of Maryland </li>
   <li><a href="https://psyc.umd.edu/facultyprofile/magidson/jessica/"> Prof. Jessica Magidson </a>,  Department of Psychology, University of Maryland </li>
+  <li><a href="https://sph.umd.edu/people/mona-mittal"> Prof. Mona Mittal </a>,  Department of Family Science, University of Maryland </li>
 </ul>
 
 
