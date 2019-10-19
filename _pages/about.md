@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, my name is Tianzhou (Charles) Ma, I am an Assistant Professor in Biostatistics at the Department of Epidemiology and Biostatistics of the School of Public Health at University of Maryland College Park. I received my PhD in Biostatistics from the University of Pittsburgh in 2018 and a MS in Biostatistics from Yale University in 2013.  My research focuses on developing statistical methods and softwares in genomics and bioinformatics, meta-analysis and data integration, statistical machine learning, Bayesian analysis, high-dimensional variable selection, as well as their application in cancer, psychiatry and epidemiology fields. 
+Hello, my name is Tianzhou (Charles) Ma, I am an Assistant Professor in Biostatistics at the Department of Epidemiology and Biostatistics of the School of Public Health at University of Maryland College Park. I received my PhD in Biostatistics from the University of Pittsburgh in 2018 and a MS in Biostatistics from Yale University in 2013.  My research focuses on developing statistical methods and softwares in genomics and bioinformatics, meta-analysis and data integration, statistical machine learning, Bayesian analysis, high-dimensional variable selection, as well as their application in cancer, psychiatry and infectious disease fields. 
 
 I am actively seeking for collaborations with researchers in both methodology and application (not restricted to my current fields of research). In addition to research, I like writing, playing soccer and basketball in my spare time.
 
@@ -21,7 +21,8 @@ Research interest
   <li>Meta-analysis and data integration </li>
   <li>Statistical learning, clustering and high-dimensional variable selection </li>
   <li>Bayesian analysis and hierarchical modeling </li>
-  <li>Application in cancer (e.g. breast cancer and ovarian cancer), psychiatry (e.g. aging and depression) and epidemiology </li>
+  <li>Survival data analysis </li>
+  <li>Application in cancer (e.g. breast cancer and ovarian cancer), psychiatry (e.g. aging and depression) and epidemiology (e.g. infectious disease) </li>
   <li>And other new fields to be explored … </li>
 </ul>
 
@@ -54,6 +55,7 @@ Selected publications
 <ul style="list-style-type:disc">
   <li><a href="http://sph.umd.edu/people/donald-milton/"> Prof. Donald Milton </a>,  Applied Environmental Health (MIAEH), University of Maryland </li>
   <li><a href="https://psyc.umd.edu/facultyprofile/magidson/jessica/"> Prof. Jessica Magidson </a>,  Department of Psychology, University of Maryland </li>
+  <li><a href="https://sph.umd.edu/people/j-carson-smith"> Prof. Carson Smith </a>,  Department of Kinesiology, University of Maryland </li>
 </ul>
 
 
