@@ -12,6 +12,8 @@ Hello, my name is Tianzhou (Charles) Ma, I am an Assistant Professor in Biostati
 
 I am actively seeking for collaborations with researchers in both methodology and application (not restricted to my current fields of research). In addition to research, I like writing, playing soccer and basketball in my spare time.
 
+Please visit our research group at: <a href="https://www.umdbright.com/"> www.umdbright.com </a>
+
 Link to my <a href="/files/cv/TianzhouMa_CV.pdf">[CV]</a>
 
 Research interest
