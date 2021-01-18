@@ -87,9 +87,9 @@ author_profile: true
 
 <ul style="list-style-type:disc">
 
-<li> <u> Ye Z^</u>, <u> Ke H^</u>, Chen S, ..., Milton D and <b>Ma T* </b>. (2021+). Biomarker categorization in transcriptomic meta-analysis by concordant patterns with application to Pan-cancer studies. Under Revision in <i> Frontiers in Genetics </i>. </li> <a href="https://github.com/kehongjie/BCMC">[software]</a>
+<li> <u> Ye Z^</u>, <u> Ke H^</u>, Chen S, ..., Milton D and <b>Ma T* </b>. (2021+). Biomarker categorization in transcriptomic meta-analysis by concordant patterns with application to Pan-cancer studies. Under Revision in <i> Frontiers in Genetics </i>. <a href="https://github.com/kehongjie/BCMC">[software]</a> </li> 
 
-<li> Saegusa T, <u> Zhao Z </u>, <u> Ke H </u>, <u> Ye Z </u>, Xu Z, Chen S and  <b> Ma T* </b>. (2021). Detecting survival-associated biomarkers from heterogeneous populations. <i>Scientific Reports </i>, Accepted. <a href="files/preprints/CoxTOTEM.pdf">[pdf]</a> </li> <a href="https://github.com/kehongjie/CoxTOTEM">[software]</a>
+<li> Saegusa T, <u> Zhao Z </u>, <u> Ke H </u>, <u> Ye Z </u>, Xu Z, Chen S and  <b> Ma T* </b>. (2021). Detecting survival-associated biomarkers from heterogeneous populations. <i>Scientific Reports </i>, Accepted. <a href="files/preprints/CoxTOTEM.pdf">[pdf]</a> <a href="https://github.com/kehongjie/CoxTOTEM">[software]</a> </li>
 <li> <b> Ma T </b>, Ren Z and Tseng GC. (2020). Variable screening with multiple studies. <i>Statistica Sinica </i>, 30(2): 925–953.<a href="files/preprints/TSA-SIS.pdf">[pdf]</a> </li>
 
 </ul>
