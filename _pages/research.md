@@ -23,7 +23,7 @@ author_profile: true
 
 <ul style="list-style-type:disc">
 
-<li> Zong W, Rahman T, Zhu L, Zeng X, Zhang Y, Zou J, Liu S, Li JJ, {\bf Ma T*} and Tseng GC*. (2021+). Congruence evaluation for model organisms in transcriptomic response. Ready to submit. </li>
+<li> Zong W, Rahman T, Zhu L, Zeng X, Zhang Y, Zou J, Liu S, Li JJ, <b> Ma T*</b> and Tseng GC*. (2021+). Congruence evaluation for model organisms in transcriptomic response. Ready to submit. </li>
 <li> (Motivating PNAS paper #1) Seok et al. (2013). Genomic responses in mouse models poorly mimic human inflammatory diseases. <i>Proceedings of the National Academy of Sciences </i>, 110(9), 3507-3512.  </li> 
 <li> (Motivating PNAS paper #2) Takao, K., & Miyakawa, T. (2015). Genomic responses in mouse models greatly mimic human inflammatory diseases. <i>Proceedings of the National Academy of Sciences </i>, 112(4), 1167-1172. </li> 
 </ul>
@@ -46,8 +46,6 @@ author_profile: true
   </div>
 
 
-<p></p>
-
   <div class="figure">
     
     	<img src="/files/figures/Pleiotropy.jpg" alt="">
@@ -57,13 +55,15 @@ author_profile: true
 
 <ul style="list-style-type:disc">
 
-<li> <u> Ye Z^ </u>, Mo C^, Hatch K, Liu S, Gao S, Hong E, Kochunov P*, Chen S* and <b> Ma T* </b>. (2020). White matter integrity and nicotine dependence in smokers: evaluating vertical and horizontal pleiotropy. <i>bioRxiv </i> <a href="https://www.biorxiv.org/content/10.1101/2020.12.09.417899v1">Link</a>. </li>
+<li> <u> Ye Z^ </u>, Mo C^, Hatch K, Liu S, Gao S, Hong E, Kochunov P*, Chen S* and <b> Ma T*</b>. (2020). White matter integrity and nicotine dependence in smokers: evaluating vertical and horizontal pleiotropy. <i>bioRxiv </i> <a href="https://www.biorxiv.org/content/10.1101/2020.12.09.417899v1">Link</a>. </li>
 <li> Mo C^, <u> Ye Z^ </u>, Hatch K, Zhang Y, Wu Q, Liu S and Kochunov P, <b> Ma T* </b> and Chen S*. (2020). Genetic Fine-mapping with Dense Linkage Disequilibrium Blocks: genetics of nicotine dependence. <a href="https://www.biorxiv.org/content/10.1101/2020.12.10.420216v1">Link</a>  </li> 
 </ul>
 
 <p></p><p></p>
 
-3. Biomarker screening, selection and categorization with multiple studies (Pan-Cancer application)
+<h3 class="archive__item-title" itemprop="headline">
+
+3. Variable screening, selection and categorization with multiple studies (Pan-Cancer application)
       
   </h3>
 
@@ -76,14 +76,11 @@ author_profile: true
   </div>
 
 
-<p></p>
-
   <div class="figure">
     
     	<img src="/files/figures/BCMC.jpg" alt="">
     
   </div>
-
 
 
 <ul style="list-style-type:disc">
@@ -112,8 +109,6 @@ author_profile: true
     	<img src="/files/figures/MetaOmics.jpg" alt="">
     
   </div>
-
-<p></p>
 
 
   <div class="figure">
