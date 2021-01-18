@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, my name is Tianzhou (Charles) Ma, I am an Assistant Professor in Biostatistics at the Department of Epidemiology and Biostatistics of the School of Public Health at University of Maryland College Park. I received my PhD in Biostatistics from the University of Pittsburgh in 2018 and a MS in Biostatistics from Yale University in 2013.  My research focuses on developing statistical methods and softwares in genomics and bioinformatics, meta-analysis and data integration, statistical machine learning, Bayesian analysis, high-dimensional variable selection, as well as their application in cancer, neuroscience and epidemiology fields. I am actively seeking for collaborations with researchers in both methodology and application (not restricted to my current fields of research). Please visit our research group at: <a href="https://www.umdbright.com/"> www.umdbright.com </a>
+Hello, my name is Tianzhou (Charles) Ma, I am an Assistant Professor in Biostatistics at the Department of Epidemiology and Biostatistics of the School of Public Health at University of Maryland College Park. I received my PhD in Biostatistics from the University of Pittsburgh in 2018 and a MS in Biostatistics from Yale University in 2013.  My research focuses on developing useful and timely statistical methods and softwares in genomics and bioinformatics, meta-analysis and data integration, statistical machine learning, Bayesian analysis, high-dimensional variable selection, as well as their application in cancer, neuroscience and epidemiology fields. I am actively seeking for collaborations with researchers in both methodology and application (not restricted to my current fields of research). Please visit our research group at: <a href="https://www.umdbright.com/"> www.umdbright.com </a>
 
 Link to my <a href="/files/cv/TianzhouMa_CV.pdf">[CV]</a>
 
@@ -23,7 +23,7 @@ Link to my <a href="/files/cv/TianzhouMa_CV.pdf">[CV]</a>
   <li>And other new fields to be explored … </li>
 </ul>
 
-Recently, we have special interest and indulged ourselves in imaging-genetic data integration, novel statistical genetic methods (e.g. fine mapping, Polygenic risk score (PRS), etc.) and topics in comparative genomics and functional genomics. 
+Recently, we have special interest in developing methods for imaging-genetic data integration, novel statistical genetic methods (e.g. fine mapping, Polygenic risk score (PRS), etc.) and in the fields of comparative genomics and functional genomics. 
 
 <h1> Recent highlighted publications </h1>
 
@@ -31,8 +31,8 @@ Notes: ^: co-first author; *: corresponding author; students underlined; <a href
 
 <p>[1] Saegusa T, <u> Zhao Z </u>, <u> Ke H </u>, <u> Ye Z </u>, Xu Z, Chen S and  <b> Ma T*</b>. (2021). Detecting survival-associated biomarkers from heterogeneous populations. <i>Scientific Reports </i>, Accepted. <a href="files/preprints/CoxTOTEM.pdf">[pdf]</a>
 <p>[2] <b> Ma T</b>, Ren Z and Tseng GC. (2020). Variable screening with multiple studies. <i>Statistica Sinica </i>, 30(2): 925–953.<a href="files/preprints/TSA-SIS.pdf">[pdf]</a>
-<p>[3] <u> Ye Z^ </u>, Mo C^, Hatch K, Liu S, Gao S, Hong E, Kochunov P*, Chen S* and <b> Ma T*</b>. (2021). White matter integrity and nicotine dependence in smokers: evaluating vertical and horizontal pleiotropy. <i>bioRxiv </i> <a href="https://www.biorxiv.org/content/10.1101/2020.12.09.417899v1">Link</a>.
-<p>[4] Mo C^, <u> Ye Z^ </u>, Hatch K, Zhang Y, Wu Q, Liu S and Kochunov P, <b> Ma T* </b> and Chen S*. (2021). Genetic Fine-mapping with Dense Linkage Disequilibrium Blocks: genetics of nicotine dependence. <a href="https://www.biorxiv.org/content/10.1101/2020.12.10.420216v1">Link</a>.
+<p>[3] <u> Ye Z^ </u>, Mo C^, Hatch K, Liu S, Gao S, Hong E, Kochunov P*, Chen S* and <b> Ma T*</b>. (2021). White matter integrity and nicotine dependence in smokers: evaluating vertical and horizontal pleiotropy. <i>bioRxiv</i>. <a href="https://www.biorxiv.org/content/10.1101/2020.12.09.417899v1"> [Link]</a>.
+<p>[4] Mo C^, <u> Ye Z^ </u>, Hatch K, Zhang Y, Wu Q, Liu S and Kochunov P, <b> Ma T* </b> and Chen S*. (2021). Genetic Fine-mapping with Dense Linkage Disequilibrium Blocks: genetics of nicotine dependence. <i>bioRxiv</i>. <a href="https://www.biorxiv.org/content/10.1101/2020.12.10.420216v1"> [Link]</a>.
 <p>[5] Lin C, Chang L, <b> Ma T</b>, Oh H, ... , Tseng GC and Sibille E. (2020). Older Molecular Brain Aging in Severe Mental Illness. <i>Molecular Psychiatry </i>, 1-11. <a href="https://www.ncbi.nlm.nih.gov/pubmed/32632206">PMID: 32632206</a>.
 <p>[6] <b> Ma T^</b>, Huo Z^, Kuo A^, Zhu L, ..., Song C and Tseng GC. (2019). MetaOmics - Comprehensive Analysis Pipeline and Web-based Software Suite for Transcriptomic Meta-Analysis. <i>Bioinformatics </i>.  <a href="https://www.ncbi.nlm.nih.gov/pubmed/30304367">PMID: 30304367</a>. <a href="files/preprints/MetaOmics.pdf">[pdf]</a> <a href="https://github.com/metaOmics/metaOmics">[software]</a>
 

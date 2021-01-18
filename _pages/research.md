@@ -45,6 +45,7 @@ author_profile: true
     
   </div>
 
+<p></p>
 
   <div class="figure">
     
@@ -55,8 +56,8 @@ author_profile: true
 
 <ul style="list-style-type:disc">
 
-<li> <u> Ye Z^ </u>, Mo C^, Hatch K, Liu S, Gao S, Hong E, Kochunov P*, Chen S* and <b> Ma T*</b>. (2020). White matter integrity and nicotine dependence in smokers: evaluating vertical and horizontal pleiotropy. <i>bioRxiv </i> <a href="https://www.biorxiv.org/content/10.1101/2020.12.09.417899v1">Link</a>. </li>
-<li> Mo C^, <u> Ye Z^ </u>, Hatch K, Zhang Y, Wu Q, Liu S and Kochunov P, <b> Ma T* </b> and Chen S*. (2020). Genetic Fine-mapping with Dense Linkage Disequilibrium Blocks: genetics of nicotine dependence. <a href="https://www.biorxiv.org/content/10.1101/2020.12.10.420216v1">Link</a>  </li> 
+<li> <u> Ye Z^ </u>, Mo C^, Hatch K, Liu S, Gao S, Hong E, Kochunov P*, Chen S* and <b> Ma T*</b>. (2021). White matter integrity and nicotine dependence in smokers: evaluating vertical and horizontal pleiotropy. <i>bioRxiv</i>. <a href="https://www.biorxiv.org/content/10.1101/2020.12.09.417899v1"> [Link]</a>. </li>
+<li> Mo C^, <u> Ye Z^ </u>, Hatch K, Zhang Y, Wu Q, Liu S and Kochunov P, <b> Ma T* </b> and Chen S*. (2021). Genetic Fine-mapping with Dense Linkage Disequilibrium Blocks: genetics of nicotine dependence. <i>bioRxiv</i>. <a href="https://www.biorxiv.org/content/10.1101/2020.12.10.420216v1"> [Link]</a>.  </li> 
 </ul>
 
 <p></p><p></p>
@@ -75,6 +76,7 @@ author_profile: true
     
   </div>
 
+<p></p>
 
   <div class="figure">
     
@@ -110,6 +112,7 @@ author_profile: true
     
   </div>
 
+<p></p>
 
   <div class="figure">
     
