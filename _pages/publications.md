@@ -32,10 +32,12 @@ Notes: ^: co-first author; *: corresponding author; students underlined; <a href
 
 ### 2021 (4)
 
-<p>[1] Saegusa T, <u> Zhao Z </u>, <u> Ke H </u>, <u> Ye Z </u>, Xu Z, Chen S and  <b> Ma T*</b>. (2021). Detecting survival-associated biomarkers from heterogeneous populations. <i>Scientific Reports </i>, Accepted. <a href="files/preprints/CoxTOTEM.pdf">[pdf]</a>
+<p>[1] Saegusa T,<u> Zhao Z</u>, <u> Ke H</u>, <u> Ye Z</u>, Xu Z, Chen S and  <b> Ma T*</b>. (2021). Detecting survival-associated biomarkers from heterogeneous populations. <i>Scientific Reports </i>, Accepted. <a href="files/preprints/CoxTOTEM.pdf">[pdf]</a>
 <p>[2] Wu Q, Milton D, Xing Y, <b>Ma T</b>, Zhang Z and Chen S. (2021). Predicting Latent Contacts from Self-reported Social Network Data via Outcome Misclassification Adjustment. <i>Statistics in Medicine</i>. Accepted. 
-<p>[3] <u> Ye Z^ </u>, Mo C^, Hatch K, Liu S, Gao S, Hong E, Kochunov P*, Chen S* and <b> Ma T*</b>. (2021). White matter integrity and nicotine dependence in smokers: evaluating vertical and horizontal pleiotropy. <i>bioRxiv</i>. <a href="https://www.biorxiv.org/content/10.1101/2020.12.09.417899v1"> [Link]</a>.
-<p>[4] Mo C^, <u> Ye Z^ </u>, Hatch K, Zhang Y, Wu Q, Liu S and Kochunov P, <b> Ma T* </b> and Chen S*. (2021). Genetic Fine-mapping with Dense Linkage Disequilibrium Blocks: genetics of nicotine dependence. <i>bioRxiv</i>. <a href="https://www.biorxiv.org/content/10.1101/2020.12.10.420216v1"> [Link]</a>.
+<p>[3] <u> Ye Z^</u>, Mo C^, Hatch K, Liu S, Gao S, Hong E, Kochunov P*, Chen S* and <b> Ma T*</b>. (2021). White matter integrity and nicotine dependence in smokers: evaluating vertical and horizontal pleiotropy. <i>bioRxiv</i>. <a href="https://www.biorxiv.org/content/10.1101/2020.12.09.417899v1"> [Link]</a>.
+<p>[4] Mo C^, <u> Ye Z^</u>, Hatch K, Zhang Y, Wu Q, Liu S and Kochunov P, <b> Ma T* </b> and Chen S*. (2021). Genetic Fine-mapping with Dense Linkage Disequilibrium Blocks: genetics of nicotine dependence. <i>bioRxiv</i>. <a href="https://www.biorxiv.org/content/10.1101/2020.12.10.420216v1"> [Link]</a>.
+
+</p></p></p></p>
 
 ### 2020 (5)
 
