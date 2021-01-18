@@ -17,6 +17,9 @@ Notes: ^: co-first author; *: corresponding author; students underlined; <a href
   {% include archive-single.html %}
 {% endfor %}
 
+
+Notes: ^: co-first author; *: corresponding author; students underlined; <a href="https://scholar.google.com/citations?user=V8o30rYAAAAJ&hl=en">[My Google Scholar Page]</a> 
+
 ### Under revision, Ready to submit:
 
 <p>[1] <u> Ye Z^</u>, <u> Ke H^</u>, Chen S, ..., Milton D and <b> Ma T*</b>. (2021+). Biomarker categorization in transcriptomic meta-analysis by concordant patterns with application to Pan-cancer studies. Under Revision in <i>Frontiers in Genetics</i>. 
