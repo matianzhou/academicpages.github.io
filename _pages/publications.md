@@ -17,12 +17,12 @@ Notes: ^: co-first author; *: corresponding author; students underlined; <a href
   {% include archive-single.html %}
 {% endfor %}
 
-### Under revision, Ready to submit
+### Under revision, Ready to submit:
 
-<p>[1] <u> Ye Z^ </u>, <u> Ke H^ </u>, Chen S, ..., Milton D and <b> Ma T*</b>. (2021+). Biomarker categorization in transcriptomic meta-analysis by concordant patterns with application to Pan-cancer studies. Under Revision in <i>Frontiers in Genetics</i>. 
+<p>[1] <u> Ye Z^</u>, <u> Ke H^</u>, Chen S, ..., Milton D and <b> Ma T*</b>. (2021+). Biomarker categorization in transcriptomic meta-analysis by concordant patterns with application to Pan-cancer studies. Under Revision in <i>Frontiers in Genetics</i>. 
 <p>[2] Rahman T, Li Y,  <b>Ma T</b>, Tang L and Tseng GC. (2021+). A sparse negative binomial mixture model for clustering RNA-seq count data. Under revision in <i>Biostatistics</i>.
 <p>[3] Wu Q, <b> Ma T</b>, Liu Q, Milton D, Zhang Y and Chen S. (2021+). Extracting Interconnected Communities in Gene Co-expression Networks. Under revision in <i>Bioinformatics</i>. 
-<p>[4] <b>Ma T*</b>, \underline{Ke H} and Ren Z*. (2021+). Robust distance correlation for variable screening. Ready to submit.
+<p>[4] <b>Ma T*</b>, <u>Ke H</u> and Ren Z*. (2021+). Robust distance correlation for variable screening. Ready to submit.
 <p>[5] Zong W, Rahman T, Zhu L, Zeng X, Zhang Y, Zou J, Liu S, Li JJ, <b> Ma T*</b> and Tseng GC*. (2021+). Congruence evaluation for model organisms in transcriptomic response.  Ready to submit. 
 <p>[6] Adenaiye O, Mesquita J, Hong F, German J, Tai S, Youssefi S, Albert, B, <b> Ma T</b>, ... and Milton D. (2021+). Tracking Acute Respiratory Infections in A College Resident Community. Ready to submit. 
 <p>[7] Khan S, Adenaiye O, <b>Ma T</b>, ..., Milton D and Felgner P. (2021+). Subtype-specific IgA antibodies partially mediate influenza immunity following vaccination. Ready to submit. 
@@ -30,7 +30,7 @@ Notes: ^: co-first author; *: corresponding author; students underlined; <a href
 
 </p></p></p></p>
 
-<h3 class="archive__item-title" itemprop="headline"> 2021 (4) </h3>
+<h3 class="archive__item-title" itemprop="headline"> 2021 (4): </h3>
 
 <p>[1] Saegusa T,<u> Zhao Z</u>, <u> Ke H</u>, <u> Ye Z</u>, Xu Z, Chen S and  <b> Ma T*</b>. (2021). Detecting survival-associated biomarkers from heterogeneous populations. <i>Scientific Reports </i>, Accepted. <a href="files/preprints/CoxTOTEM.pdf">[pdf]</a>
 <p>[2] Wu Q, Milton D, Xing Y, <b>Ma T</b>, Zhang Z and Chen S. (2021). Predicting Latent Contacts from Self-reported Social Network Data via Outcome Misclassification Adjustment. <i>Statistics in Medicine</i>. Accepted. 
@@ -39,7 +39,7 @@ Notes: ^: co-first author; *: corresponding author; students underlined; <a href
 
 </p></p></p></p>
 
-<h3 class="archive__item-title" itemprop="headline"> 2020 (5) </h3>
+<h3 class="archive__item-title" itemprop="headline"> 2020 (5): </h3>
 
 <p>[1] <b> Ma T</b>, Ren Z and Tseng GC. (2020). Variable screening with multiple studies. <i>Statistica Sinica </i>, 30(2): 925–953.<a href="files/preprints/TSA-SIS.pdf">[pdf]</a>
 <p>[2] Lin C, Chang L, <b> Ma T</b>, Oh H, ... , Tseng GC and Sibille E. (2020). Older Molecular Brain Aging in Severe Mental Illness. <i>Molecular Psychiatry </i>, 1-11. <a href="https://www.ncbi.nlm.nih.gov/pubmed/32632206">PMID: 32632206</a>.
@@ -49,7 +49,7 @@ Notes: ^: co-first author; *: corresponding author; students underlined; <a href
 
 </p></p></p></p>
 
-<h3 class="archive__item-title" itemprop="headline"> 2019 (4) </h3>
+<h3 class="archive__item-title" itemprop="headline"> 2019 (4): </h3>
 
 <p>[1] Zhu L, Huo Z, <b> Ma T</b>, Tseng GC. (2019). Bayesian indicator variable selection to incorporate hierarchical overlapping group structure in multi-omics applications. <i> Annals of Applied Statistics </i>, 13(4): 2611-2636. (a preliminary version won the ENAR distinguished student paper award).
 <p>[2] Huo Z, Zhu L, <b> Ma T</b>, Liu H, Han S, Liao D, Zhao J and Tseng GC. (2019). Two-way Horizontal and Vertical Omics Integration for Disease Subtype Discovery. <i> Statistics in Biosciences </i>, 1-22.
@@ -58,7 +58,7 @@ Notes: ^: co-first author; *: corresponding author; students underlined; <a href
 
 </p></p></p></p>
 
-<h3 class="archive__item-title" itemprop="headline"> 2018 (3) </h3>
+<h3 class="archive__item-title" itemprop="headline"> 2018 (3): </h3>
 
 <p>[1] Fang Z, <b>Ma T</b>, Tang G, Zhu L, Yan Q, Wang T, Celedón JC, Chen W and Tseng GC.(2018). Bayesian integrative model for multi-omics data with missingness. <i>Bioinformatics </i>, 34(22): 3801-3808. <a href="https://www.ncbi.nlm.nih.gov/pubmed/30184058">PMID: 30184058</a>.    
 <p>[2] Andersen CL, Boisen MM, Sikora MJ, <b> Ma, T.</b>, Tseng G, Suryawanshi S, Vlad AM, Elishaev E, Edwards RP and Oesterreich S. (2018). The evolution of estrogen receptor signaling in the progression of endometriosis to endometriosis-associated ovarian cancer. <i>Hormones and Cancer</i>, 9(6): 399-407.<a href="https://www.ncbi.nlm.nih.gov/pubmed/30302736">PMID: 30302736</a>.  
@@ -66,7 +66,7 @@ Notes: ^: co-first author; *: corresponding author; students underlined; <a href
 
 </p></p></p></p>
 
-<h3 class="archive__item-title" itemprop="headline"> 2017 (8) </h3>
+<h3 class="archive__item-title" itemprop="headline"> 2017 (8): </h3>
 
 <p>[1] <b> Ma, T. </b>, Liang, F. and Tseng, GC. (2017). Biomarker detection and categorization in ribonucleic acid sequencing meta-analysis using Bayesian hierarchical model. <i>Journal of the Royal Statistical Society: Series C</i>. 66(4): 847-867. (won 2017 ASA Section on Bayesian Statistical Science (SBSS) student paper award) <a href="https://matianzhou.github.io/files/preprints/BayesMetaSeq.pdf">[pdf]</a>
 <p>[2] <b> Ma, T. </b>, Liang, F., Oesterreich, S. and Tseng, GC. (2017). A joint Bayesian modeling for integrating microarray and RNA-seq transcriptomic data. <i>Journal of Computational Biology</i>. 24(7): 647-662. (selected to present at Dahshu Data Science Symposium: Computational Precision Health 2017 and won the best paper award) <a href="https://matianzhou.github.io/files/preprints/CBM.pdf">[pdf]</a>
@@ -78,8 +78,7 @@ Notes: ^: co-first author; *: corresponding author; students underlined; <a href
 <p>[8] Grabosch S, Tseng G, Edwards RP, Lankes HA, Moore K, Odunsi K, Vlad A, <b>Ma T</b>, Strange M, Brozick J, Lugade A, Omilian A, Bshara W, Stuckey AR, Walker JL and Birrer M. (2017). Multiplex profiling identifies distinct local and systemic alterations during intraperitoneal chemotherapy for ovarian cancer: An NRG Oncology/Gynecologic Oncology Group Study. <i>Gynecologic Oncology</i>, 146(1):137-145. <a href="https://www.ncbi.nlm.nih.gov/pubmed/28483269">PMID: 28483269 </a>.   
 
 </p></p></p></p>
-
-<h3 class="archive__item-title" itemprop="headline"> 2016 (4) </h3>
+<h3 class="archive__item-title" itemprop="headline"> 2016 and before (8): </h3>
 
 <p>[1] Liu S, Tsai W, Ding Y, Chen R, Fang Z, Huo Z, Kim S, <b>Ma T</b>, Chang T, Priedigkeit N, Lee AV, Luo J, Wang H, Chung I and Tseng, GC. (2016).
 Comprehensive evaluation of fusion transcript detection algorithms and a meta-caller to combine top performing methods in paired-end RNA-seq data.
@@ -87,15 +86,10 @@ Comprehensive evaluation of fusion transcript detection algorithms and a meta-ca
 <p>[2] Zhang L, <b>Ma T</b>, Brozick J, Babalola K, Budiu R, Tseng G and Vlad AM. (2016). Effects of Kras activation and Pten deletion alone or in combination on MUC1 biology and epithelial to mesenchymal transition in ovarian cancer. <i> Oncogene</i>, 35(38): 5010-20. <a href="https://www.ncbi.nlm.nih.gov/pubmed/26973247"> PMID: 26973247</a>.
 <p>[3] Chen CY, Logan RW, <b>Ma T</b>, Lewis DA, Tseng GC, Sibille E and McClung CA. (2016). The effects of aging on circadian patterns of gene expression in the human prefrontal cortex. <i>Proceedings of the National Academy of Sciences </i>, 113(1), 206-21. <a href="https://www.ncbi.nlm.nih.gov/pubmed/26699485">PMID: 26699485</a>. (High Attention Paper, 99th percentile, <a href="http://www.npr.org/sections/health-shots/2015/12/22/460333217/as-aging-brains-internal-clock-fades-a-new-timekeeper-may-kick-in">News on National Public Radio (NPR)</a>)
 <p>[4] Sanei-Moghaddam A, <b>Ma T</b>, Goughnour SL, Edwards RP, Lounder PJ, Ismail N, Comerci JT, Mansuria SM and Linkov F. (2016). Changes in hysterectomy trends after the implementation of a clinical pathway. <i>Obstetrics & Gynecology </i>, 127(1), 139-147. <a href="https://www.ncbi.nlm.nih.gov/pubmed/26646126">PMID: 26646126 </a>. 
-
-</p></p></p></p>
-
-<h3 class="archive__item-title" itemprop="headline"> 2015 and before (4) </h3>
-
-<p>[1] Mony JT, Zhang L, <b>Ma T</b>, Grabosch S, Tirodkar TS, Boric J, Tseng G, Elishaev E, Edwards RP, Huang X and Vlad AM. (2015). Anti-PD-L1 prolongs survival and triggers T cell but not humoral anti-tumor immune responses in a human MUC1-expressing preclinical ovarian cancer model. <i>Cancer Immunology, Immunotherapy</i> 64(9):1095-108. doi: 10.1007/s00262-015-1712-6 <a href="https://www.ncbi.nlm.nih.gov/pubmed/25998800">PMID: 25998800</a>. 
-<p>[2] Liao S, Hartmaier RJ, McGuire KP, Puhalla SL, Luthra S, Chandran UR, <b>Ma T</b>, Bhargava R, Davidson NE, Benz S, Lee AV, Tseng GC and Oesterreich S. (2015). The molecular landscape of premenopausal breast cancer. <i>Breast Cancer Research</i>, 17:104. doi: 10.1186/s13058-015-0618-8. <a href="https://www.ncbi.nlm.nih.gov/pubmed/26251034">PMID: 26251034</a>. (discussed in an interview; <a href="http://www.nature.com/nature/journal/v527/n7578_supp/full/527S108a.html"><i>Nature</i>, 527: S108-109</a>)
-<p>[3] Suryawanshi S, Huang X, Elishaev E, Budiu RA, Zhang L, Kim S, Donnellan N, Mantia-Smaldone G, <b>Ma T</b>, Tseng G, Lee T, Mansuria S, Edwards RP and Vlad AM. (2014). Complement Pathway Is Frequently Altered in Endometriosis and Endometriosis-Associated Ovarian Cancer, <i>Clinical Cancer Research</i>, 20(23):6163-6174. doi: 10.1158/1078-0432.CCR-14-1338. <a href="https://www.ncbi.nlm.nih.gov/pubmed/25294912">PMID: 25294912</a>. 
-<p>[4] Hou L^, <b> Ma T^</b> and Zhao H. (2014). Incorporating functional annotation information in prioritizing disease associated SNPs from genome wide association studies. <i>Science China Life Sciences</i>, 57(11): 1072-1079. <a href="https://www.ncbi.nlm.nih.gov/pubmed/25326070">PMID: 25326070</a>. 
+<p>[5] Mony JT, Zhang L, <b>Ma T</b>, Grabosch S, Tirodkar TS, Boric J, Tseng G, Elishaev E, Edwards RP, Huang X and Vlad AM. (2015). Anti-PD-L1 prolongs survival and triggers T cell but not humoral anti-tumor immune responses in a human MUC1-expressing preclinical ovarian cancer model. <i>Cancer Immunology, Immunotherapy</i> 64(9):1095-108. doi: 10.1007/s00262-015-1712-6 <a href="https://www.ncbi.nlm.nih.gov/pubmed/25998800">PMID: 25998800</a>. 
+<p>[6] Liao S, Hartmaier RJ, McGuire KP, Puhalla SL, Luthra S, Chandran UR, <b>Ma T</b>, Bhargava R, Davidson NE, Benz S, Lee AV, Tseng GC and Oesterreich S. (2015). The molecular landscape of premenopausal breast cancer. <i>Breast Cancer Research</i>, 17:104. doi: 10.1186/s13058-015-0618-8. <a href="https://www.ncbi.nlm.nih.gov/pubmed/26251034">PMID: 26251034</a>. (discussed in an interview; <a href="http://www.nature.com/nature/journal/v527/n7578_supp/full/527S108a.html"><i>Nature</i>, 527: S108-109</a>)
+<p>[7] Suryawanshi S, Huang X, Elishaev E, Budiu RA, Zhang L, Kim S, Donnellan N, Mantia-Smaldone G, <b>Ma T</b>, Tseng G, Lee T, Mansuria S, Edwards RP and Vlad AM. (2014). Complement Pathway Is Frequently Altered in Endometriosis and Endometriosis-Associated Ovarian Cancer, <i>Clinical Cancer Research</i>, 20(23):6163-6174. doi: 10.1158/1078-0432.CCR-14-1338. <a href="https://www.ncbi.nlm.nih.gov/pubmed/25294912">PMID: 25294912</a>. 
+<p>[8] Hou L^, <b> Ma T^</b> and Zhao H. (2014). Incorporating functional annotation information in prioritizing disease associated SNPs from genome wide association studies. <i>Science China Life Sciences</i>, 57(11): 1072-1079. <a href="https://www.ncbi.nlm.nih.gov/pubmed/25326070">PMID: 25326070</a>. 
 
 </p></p></p></p>
 
