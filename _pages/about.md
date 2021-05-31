@@ -64,6 +64,7 @@ Notes: ^: co-first author; *: corresponding author; students underlined; <a href
   <li><a href="https://www.medschool.umaryland.edu/profiles/Kochunov-Peter/"> Prof. Peter Kochunov </a>,  Maryland Psychiatric Research Center (MPRC), University of Maryland </li>
   <li><a href="http://sph.umd.edu/people/donald-milton/"> Prof. Donald Milton </a>,  Applied Environmental Health (MIAEH), University of Maryland </li>
   <li><a href="https://psyc.umd.edu/facultyprofile/magidson/jessica/"> Prof. Jessica Magidson </a>,  Department of Psychology, University of Maryland </li>
+  <li><a href="https://psyc.umd.edu/facultyprofile/magidson/jessica/"> Prof. Jie Chen </a>,  Department of Health Policy and Management, University of Maryland </li>
 </ul>
 
 
