@@ -22,23 +22,23 @@ Notes: ^: co-first author; *: corresponding author; students underlined; <a href
 
 ### Under revision, Ready to submit:
 
-<p>[1] <u> Ye Z^</u>, <u> Ke H^</u>, Chen S, ..., Milton D and <b> Ma T*</b>. (2021+). Biomarker categorization in transcriptomic meta-analysis by concordant patterns with application to Pan-cancer studies. Under Revision in <i>Frontiers in Genetics</i>. 
-<p>[2] Rahman T, Li Y,  <b>Ma T</b>, Tang L and Tseng GC. (2021+). A sparse negative binomial mixture model for clustering RNA-seq count data. Under revision in <i>Biostatistics</i>.
-<p>[3] Wu Q, <b> Ma T</b>, Liu Q, Milton D, Zhang Y and Chen S. (2021+). Extracting Interconnected Communities in Gene Co-expression Networks. Under revision in <i>Bioinformatics</i>. 
-<p>[4] <b>Ma T*</b>, <u>Ke H</u> and Ren Z*. (2021+). Robust distance correlation for variable screening. Ready to submit.
-<p>[5] Zong W, Rahman T, Zhu L, Zeng X, Zhang Y, Zou J, Liu S, Li JJ, <b> Ma T*</b> and Tseng GC*. (2021+). Congruence evaluation for model organisms in transcriptomic response.  Ready to submit. 
-<p>[6] Adenaiye O, Mesquita J, Hong F, German J, Tai S, Youssefi S, Albert, B, <b> Ma T</b>, ... and Milton D. (2021+). Tracking Acute Respiratory Infections in A College Resident Community. Ready to submit. 
-<p>[7] Khan S, Adenaiye O, <b>Ma T</b>, ..., Milton D and Felgner P. (2021+). Subtype-specific IgA antibodies partially mediate influenza immunity following vaccination. Ready to submit. 
-<p>[8] Linkov F, Goughnour, S, Vlad A, Elishaev E, <b>Ma T</b>, Xu Z, Edwards RP, Ramanathan R, Hamad G and Bovbjerg D. (2021+). Changes in the endometrial immune markers in women undergoing surgical weight loss. Ready to submit. 
+<p>[1] Rahman T, Li Y,  <b>Ma T</b>, Tang L and Tseng GC. (2021+). A sparse negative binomial mixture model for clustering RNA-seq count data. Under revision in <i>Biostatistics</i>.
+<p>[2] Wu Q, <b> Ma T</b>, Liu Q, Milton D, Zhang Y and Chen S. (2021+). Extracting Interconnected Communities in Gene Co-expression Networks. Under revision in <i>Bioinformatics</i>. 
+<p>[3] <b>Ma T*</b>, <u>Ke H</u> and Ren Z*. (2021+). Robust distance correlation for variable screening. Ready to submit.
+<p>[4] Zong W, Rahman T, Zhu L, Zeng X, Zhang Y, Zou J, Liu S, Li JJ, <b> Ma T*</b> and Tseng GC*. (2021+). Congruence evaluation for model organisms in transcriptomic response.  Ready to submit. 
+<p>[5] Adenaiye O, Mesquita J, Hong F, German J, Tai S, Youssefi S, Albert, B, <b> Ma T</b>, ... and Milton D. (2021+). Tracking Acute Respiratory Infections in A College Resident Community. Ready to submit. 
+<p>[6] Khan S, Adenaiye O, <b>Ma T</b>, ..., Milton D and Felgner P. (2021+). Subtype-specific IgA antibodies partially mediate influenza immunity following vaccination. Ready to submit. 
+<p>[7] Linkov F, Goughnour, S, Vlad A, Elishaev E, <b>Ma T</b>, Xu Z, Edwards RP, Ramanathan R, Hamad G and Bovbjerg D. (2021+). Changes in the endometrial immune markers in women undergoing surgical weight loss. Ready to submit. 
 
 </p></p></p></p>
 
 <h3 class="archive__item-title" itemprop="headline"> 2021 (4): </h3>
 
-<p>[1] Saegusa T,<u> Zhao Z</u>, <u> Ke H</u>, <u> Ye Z</u>, Xu Z, Chen S and  <b> Ma T*</b>. (2021). Detecting survival-associated biomarkers from heterogeneous populations. <i>Scientific Reports </i>, Accepted. <a href="files/preprints/CoxTOTEM.pdf">[pdf]</a>
-<p>[2] Wu Q, Milton D, Xing Y, <b>Ma T</b>, Zhang Z and Chen S. (2021). Predicting Latent Contacts from Self-reported Social Network Data via Outcome Misclassification Adjustment. <i>Statistics in Medicine</i>. Accepted. 
-<p>[3] <u> Ye Z^</u>, Mo C^, Hatch K, Liu S, Gao S, Hong E, Kochunov P*, Chen S* and <b> Ma T*</b>. (2021). White matter integrity and nicotine dependence in smokers: evaluating vertical and horizontal pleiotropy. <i>bioRxiv</i>. <a href="https://www.biorxiv.org/content/10.1101/2020.12.09.417899v1"> [Link]</a>.
-<p>[4] Mo C^, <u> Ye Z^</u>, Hatch K, Zhang Y, Wu Q, Liu S and Kochunov P, <b> Ma T* </b> and Chen S*. (2021). Genetic Fine-mapping with Dense Linkage Disequilibrium Blocks: genetics of nicotine dependence. <i>bioRxiv</i>. <a href="https://www.biorxiv.org/content/10.1101/2020.12.10.420216v1"> [Link]</a>.
+<p>[1] <u> Ye Z^</u>, <u> Ke H^</u>, Chen S, ..., Milton D and <b> Ma T*</b>. (2021). Biomarker categorization in transcriptomic meta-analysis by concordant patterns with application to Pan-cancer studies. <i>Frontiers in Genetics</i>. Accepted. 
+<p>[2] Saegusa T,<u> Zhao Z</u>, <u> Ke H</u>, <u> Ye Z</u>, Xu Z, Chen S and  <b> Ma T*</b>. (2021). Detecting survival-associated biomarkers from heterogeneous populations. <i>Scientific Reports </i>, Accepted. <a href="files/preprints/CoxTOTEM.pdf">[pdf]</a>
+<p>[3] Wu Q, Milton D, Xing Y, <b>Ma T</b>, Zhang Z and Chen S. (2021). Predicting Latent Contacts from Self-reported Social Network Data via Outcome Misclassification Adjustment. <i>Statistics in Medicine</i>. Accepted. 
+<p>[4] <u> Ye Z^</u>, Mo C^, Hatch K, Liu S, Gao S, Hong E, Kochunov P*, Chen S* and <b> Ma T*</b>. (2021). White matter integrity and nicotine dependence in smokers: evaluating vertical and horizontal pleiotropy. <i>bioRxiv</i>. <a href="https://www.biorxiv.org/content/10.1101/2020.12.09.417899v1"> [Link]</a>.
+<p>[5] Mo C^, <u> Ye Z^</u>, Hatch K, Zhang Y, Wu Q, Liu S and Kochunov P, <b> Ma T* </b> and Chen S*. (2021). Genetic Fine-mapping with Dense Linkage Disequilibrium Blocks: genetics of nicotine dependence. <i>bioRxiv</i>. <a href="https://www.biorxiv.org/content/10.1101/2020.12.10.420216v1"> [Link]</a>.
 
 </p></p></p></p>
 
